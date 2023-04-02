@@ -22,7 +22,9 @@
     <body>
         
 		<header>
+			
 			<!--  Menu de navigation -->
+			
 			<nav class="navbar navbar-expand-lg mb-4 py-4" style="background-color: #e3f2fd;">
 				<div class="container-fluid">
 					<a class="navbar-brand" href="../index.html">
@@ -51,6 +53,31 @@
 			</nav>
 			
 		</header>
+		
+		<main>
+			
+			<div class="container-fluid">
+				<div class="row">
+						<h1 class="text-center">Nous contacter</h1>
+						
+						<!-- Formulaire de contact -->
+						
+						<form class="col-md-6 my-5 m-auto">
+							<label for="email" class="my-2">Expéditeur</label>
+							<input type="email" class="form-control" id="email" name="email">
+							
+							<label for="subject" class="mt-4 mb-2">Sujet</label>
+							<input type="text" class="form-control" id="subject" name="subject">
+							
+							<label for="message" class="mt-4 mb-2">Message</label>
+							<textarea class="form-control" id="message" name="message" rows="5">
+							</textarea>
+							<button type="button" class="btn btn-success my-4">Envoyer</button>
+						</form>
+				</div>
+			</div>
+			
+		</main>
 		
 		<footer class="container-fluid bg-secondary pt-5 mt-4">
 			
