@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://evalassocycl.vercel.app/index.html</loc>
+    </url>
+
+    <url>
+        <loc>https://evalassocycl.vercel.app/pages/a-propos.html</loc>
+    </url>
+
+    <url>
+        <loc>https://evalassocycl.vercel.app/pages/evenements.html</loc>
+    </url>
+    
+    <url>
+        <loc>https://evalassocycl.vercel.app/pages/contact.html</loc>
+    </url>
+    
+ </urlset>
